@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'gooey-cell_Example' do
+  pod 'gooey-cell', :path => '../'
+
+  target 'gooey-cell_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
