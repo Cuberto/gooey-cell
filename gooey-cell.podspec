@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
   s.social_media_url = 'https://twitter.com/cuberto'
 
   s.ios.deployment_target = '9.3'
-
+  s.swift_version = '4.2'
   s.source_files = 'gooey-cell/Classes/**/*'
   
   # s.resource_bundles = {
